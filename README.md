@@ -10,7 +10,7 @@ Recursive Length Prefix Encoding in PHP.
 
 Set minimum stability to dev
 ```
-composer require web3p/rlp
+composer require mrinte/rlp
 ```
 
 # Usage
